@@ -1,0 +1,15 @@
+C:\Users\HI\source\repos\Mini-Calculator\Mini-Calculator\bin\Debug\net7.0\Mini-Calculator.exe
+C:\Users\HI\source\repos\Mini-Calculator\Mini-Calculator\bin\Debug\net7.0\Mini-Calculator.deps.json
+C:\Users\HI\source\repos\Mini-Calculator\Mini-Calculator\bin\Debug\net7.0\Mini-Calculator.runtimeconfig.json
+C:\Users\HI\source\repos\Mini-Calculator\Mini-Calculator\bin\Debug\net7.0\Mini-Calculator.dll
+C:\Users\HI\source\repos\Mini-Calculator\Mini-Calculator\bin\Debug\net7.0\Mini-Calculator.pdb
+C:\Users\HI\source\repos\Mini-Calculator\Mini-Calculator\obj\Debug\net7.0\Mini-Calculator.csproj.AssemblyReference.cache
+C:\Users\HI\source\repos\Mini-Calculator\Mini-Calculator\obj\Debug\net7.0\Mini-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HI\source\repos\Mini-Calculator\Mini-Calculator\obj\Debug\net7.0\Mini-Calculator.AssemblyInfoInputs.cache
+C:\Users\HI\source\repos\Mini-Calculator\Mini-Calculator\obj\Debug\net7.0\Mini-Calculator.AssemblyInfo.cs
+C:\Users\HI\source\repos\Mini-Calculator\Mini-Calculator\obj\Debug\net7.0\Mini-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\HI\source\repos\Mini-Calculator\Mini-Calculator\obj\Debug\net7.0\Mini-Calculator.dll
+C:\Users\HI\source\repos\Mini-Calculator\Mini-Calculator\obj\Debug\net7.0\refint\Mini-Calculator.dll
+C:\Users\HI\source\repos\Mini-Calculator\Mini-Calculator\obj\Debug\net7.0\Mini-Calculator.pdb
+C:\Users\HI\source\repos\Mini-Calculator\Mini-Calculator\obj\Debug\net7.0\Mini-Calculator.genruntimeconfig.cache
+C:\Users\HI\source\repos\Mini-Calculator\Mini-Calculator\obj\Debug\net7.0\ref\Mini-Calculator.dll
